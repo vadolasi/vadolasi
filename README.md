@@ -8,6 +8,6 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
-don't tread on me 🐍
+Don't tread on me 🐍
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vadolasi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
