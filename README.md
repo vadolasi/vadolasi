@@ -1,12 +1,47 @@
-### Hi there 👋
-
-Hi, i'm Vitor Daniel, a passionate self-taught full stack freelancer web developer from Brazil. my passion for software lies with dreaming up ideas and making them come true. i take great care in the experience, architecture, and code quality of the things I build.
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vadolasi&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+<div align="center">
+  <img src="./assets/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/vadolasi/count.svg" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="./assets/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+Building tools that make people' lives easier.
+
+**Currently at** Freelancer - Natal, RN
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="https://vitordaniel.is-a.dev">
+    <img src="https://img.shields.io/badge/-Site-080c14?style=for-the-badge&logo=site&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="mailto:vitor@vitordaniel.is-a.dev">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vitordanieldevrn/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
